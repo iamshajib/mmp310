@@ -1,4 +1,4 @@
-# MMP 310: Multimedia Programming II
+# MMP 310: Multimedia Programming II 
 
 Spring 2016  
 Monday and Wednesday 5:30pm - 7:10pm  
